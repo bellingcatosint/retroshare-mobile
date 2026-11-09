@@ -57,3 +57,14 @@ Please read [Contributing.md](https://github.com/RetroShare/retroshare-mobile/bl
  
 ## Support
 Join our [Retroshare](https://github.com/RetroShare/RetroShare/releases) to talk to dev/tester of this project.
+
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
